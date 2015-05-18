@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-inline-env",
+  "version": "1.0.0",
+  "description": "Babel's inlineEnvironmentVariables transformer as Babel plugin to force it to run before deadCodeElimination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrojas/babel-plugin-inline-env.git"
+  },
+  "author": "Andres Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afrojas/babel-plugin-inline-env/issues"
+  },
+  "homepage": "https://github.com/afrojas/babel-plugin-inline-env#readme"
+}
